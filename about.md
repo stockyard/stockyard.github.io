@@ -4,12 +4,6 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Here I will log and graph some random numbers I notice during my amusements. Feel free to finger, comment or suggest any theme you like via email: [stockyard@tuta.io](mailto:stockyard@tuta.io).
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+Thanks.
