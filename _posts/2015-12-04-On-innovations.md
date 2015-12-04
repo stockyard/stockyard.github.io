@@ -25,4 +25,5 @@ But which company is the modest spender at all then? Which shareholders may at m
 
 Is it a real innovation, though, or just a reflection of the consumerist society we are living in? That surely can't be answered. But as Neil Cybart [wrote](http://www.aboveavalon.com/notes/2015/5/3/significant-rd-increase-suggests-apple-is-working-on-something-big) some time ago, "If Apple is spending R&D, it is a good bet they have a specific goal in mind for those dollars." And *that* pattern, I bet, will keep investors happy for some time.
 
+&nbsp;
 
