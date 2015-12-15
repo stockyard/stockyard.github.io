@@ -9,7 +9,7 @@ However, as of the [latter](http://inflationinrussia.com/inflation_table.aspx), 
 
 ![monthly inflation](http://i.imgur.com/whLPy9b.png)
 
-One of the obvious measures to fight inflation is to limit the money supply. And of the easiest measures for banks to obtain additional money, is a [repurchase agreement](https://en.wikipedia.org/wiki/Repurchase_agreement). Now, let's take a look how the Repo limits have changed throughout year 2015:
+One of the obvious measures to fight the inflation is to limit the money supply. And one of the easiest measures for banks to obtain additional money, is a [repurchase agreement](https://en.wikipedia.org/wiki/Repurchase_agreement). Now, let's take a look how the Repo limits have changed throughout year 2015:
 
 ![repo limits](http://i.imgur.com/gfZqGd5.png)
 
