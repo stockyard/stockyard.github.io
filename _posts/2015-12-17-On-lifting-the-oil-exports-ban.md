@@ -15,7 +15,7 @@ Also, on a side note, it's worth to [note that…](http://www.wsj.com/articles/c
 
 > …to address the refiners’ concerns, expressed most vocally by Democrats from the Northeast where several refineries are located, the spending bill changes an existing tax deduction for domestic manufacturing so independent refineries can deduct most of the transportation costs associated with their products.
 
-But I doubt that comfort refiners much…
+But I doubt that will comfort refiners much.
 
 
 &nbsp;
