@@ -15,7 +15,7 @@ And also on the U.S. dollar rates towards another currencies:
 
 However, the outlook does look rather strange, doesn't it? Why indeed a higher Fed-funds rate does not increase the return on dollar-denominated deposits? And why the dollar itself doesn't start to look attractive?
 
-The truth, however, is that financial markets have already priced in the initial hike after repeated signals from the interest-rate setting committee. As “ Doug Borthwick, the head of currency trading at Chapdelaine & Co, has put it: 
+The truth, however, is that financial markets have already priced in the initial hike after repeated signals from the interest-rate setting committee. As Doug Borthwick, the head of currency trading at Chapdelaine & Co, has put it: 
 
 > Given the Fed’s reluctance to raise rates over the past 12 months, it’s much more likely that after raising rates, they’ll adopt a significantly dovish tone and stress that they have no intention of raising rates at any particular [rapid] pace going forward.
 
