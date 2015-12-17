@@ -7,27 +7,33 @@ As many out here probably know, today Russia's facing one of the harshest econom
 
 However, as of the [latter](http://inflationinrussia.com/inflation_table.aspx), there seem to be some positive tendencies, too -- let's have a look at the monthly data:
 
-![monthly inflation](http://i.imgur.com/whLPy9b.png)
+<!-- ![monthly inflation](http://i.imgur.com/whLPy9b.png) -->
+![monthly inflation](http://i.imgur.com/1cJyyEg.png)
 
 One of the obvious measures to fight the inflation is to limit the money supply. And one of the easiest measures for banks to obtain additional money, is a [repurchase agreement](https://en.wikipedia.org/wiki/Repurchase_agreement). Now, let's take a look how the Repo limits have changed throughout year 2015:
 
-![repo limits](http://i.imgur.com/gfZqGd5.png)
+<!-- ![repo limits](http://i.imgur.com/gfZqGd5.png) -->
+![repo limits](http://i.imgur.com/YmZthWr.png)
 
 Or, let's combine it with the inverted monthly inflation:
 
-![repo vs inflation](http://i.imgur.com/tlX7S8a.png)
+<!-- ![repo vs inflation](http://i.imgur.com/tlX7S8a.png) -->
+![repo vs inflation](http://i.imgur.com/ybvHfIb.png)
 
 Some similarities are here, right? However, limiting the money supply to the banks may also introduce not so pleasant side effects like the crisis of the banking system itself. And indeed, the number of banks that were closed in 2015 is more than hundred already (was 98 as of November):
 
-![bank closures](http://i.imgur.com/OGZ59e9.png)
+<!-- ![bank closures](http://i.imgur.com/OGZ59e9.png) -->
+![bank closures](http://i.imgur.com/Mcl6DqZ.png)
 
 But does it have any relation to the Repo limits?
 
-![bank closures vs repo limits](http://i.imgur.com/3GPL9Ey.png)
+<!-- ![bank closures vs repo limits](http://i.imgur.com/3GPL9Ey.png) -->
+![bank closures vs repo limits](http://i.imgur.com/LQq64Aw.png)
 
 Or, let's again invert the repo limits graph for some kind of better vizualizaion:
 
-![bank closures vs repo limits inverted](http://i.imgur.com/T38r6Ua.png)
+<!-- ![bank closures vs repo limits inverted](http://i.imgur.com/T38r6Ua.png) -->
+![bank closures vs repo limits inverted](http://i.imgur.com/1ZcTPMe.png)
 
 It's rather obvious that one cannot say there's clear and definite pattern in the graph. Nonetheless, the trend that took stage since May, 2015, may be very well worth watching, and -- having in mind that Repo limits were once again lessened in December -- it will interesting to re-review these patterns some two or three months later.
 
