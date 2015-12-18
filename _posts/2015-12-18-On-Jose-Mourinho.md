@@ -17,7 +17,7 @@ Spot a pattern? The third year seems like a bit sloppy, one may say. Now, let's 
 
 ![all-in-one](http://i.imgur.com/mJlLecP.png)
 
-Whatever happens to Jose during his stay at a club, the third year definitely doesn't looks like the reason to continue working there. Does he lose his appetite? The passion or even the interest for the game? Nobody can answer that. But if he would be an enterprise, I'd be shorting his stocks every third year, that's for sure.
+Whatever happens to Jose during his stay at a club, the third year definitely doesn't look like the reason to continue working there. Does he lose his appetite? The passion or even the interest for the game? Or, may be problems with his players and the stuff arise? Nobody can answer that. But if he would be an enterprise, I'd be shorting his stocks every third year, that's for sure.
 
 
 
