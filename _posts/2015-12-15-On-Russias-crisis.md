@@ -35,7 +35,7 @@ Or, let's again invert the repo limits graph for some kind of better vizualizaio
 <!-- ![bank closures vs repo limits inverted](http://i.imgur.com/T38r6Ua.png) -->
 ![bank closures vs repo limits inverted](http://i.imgur.com/1ZcTPMe.png)
 
-It's rather obvious that one cannot say there's clear and definite pattern in the graph. Nonetheless, the trend that took stage since May, 2015, may be very well worth watching, and -- having in mind that Repo limits were once again lessened in December -- it will interesting to re-review these patterns some two or three months later.
+It's rather obvious that one cannot say there's clear and definite pattern in the graph. Nonetheless, the trend that took the stage since May, 2015, may be very well worth watching, and -- having in mind that Repo limits were once again lessened in December -- it will be interesting to come back and review these patterns again some two or three months later.
 
 
 
