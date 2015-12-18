@@ -13,7 +13,7 @@ Then, what exactly happened during these tenures? Let's have a look at his clubs
 ![Real](http://i.imgur.com/VBowfHn.png)
 ![Chelsea II](http://i.imgur.com/SWn6p4K.png)
 
-Spot a pattern? The third year seems like a bit sloppy, one may say. Now, let's combine these three in one graph for a more clearer picture:
+Spot a pattern? The third year seems like a bit sloppy, one may say. Now, let's combine these three in one graph for a clearer picture:
 
 ![all-in-one](http://i.imgur.com/mJlLecP.png)
 
