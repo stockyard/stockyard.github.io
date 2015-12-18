@@ -19,7 +19,7 @@ The truth, however, is that financial markets have already priced in the initial
 
 > Given the Fed’s reluctance to raise rates over the past 12 months, it’s much more likely that after raising rates, they’ll adopt a significantly dovish tone and stress that they have no intention of raising rates at any particular [rapid] pace going forward.
 
-Or, to put it simply, the enthusiasm was here but now seems to be way more cautious than initially.
+Or, to put it simply, the enthusiasm was there but now seems to be way more cautious than before.
 
 
 
