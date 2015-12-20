@@ -21,7 +21,7 @@ Indeed, we see the obvious decline over the provided period, and the only state 
 
 Having said all that, it's also important to note an interest rate increase from the U.S. Federal Reserve, which would also lead to -- again -- lower commodity prices and a stronger dollar, both of which will conspire to create headwinds for emerging markets in the first half of 2016.
 
-On the other hand, as JPMorgan notes, an increase in corporate debt is a source of concern in emerging markets. Non-financial corporate debt is pegged at 76.2% of GDP in 2015, compared with 48.4%of GDP for government debt and 29.5 percent of GDP for household debt.
+On the other hand, as JPMorgan notes, an increase in corporate debt is a source of concern in emerging markets. Non-financial corporate debt is pegged at 76.2% of GDP in 2015, compared with 48.4% of GDP for government debt and 29.5% of GDP for household debt.
 
 However, as most of the buildup in corporate debt is domestic debt in the form of private sector loans, sovereign indebtedness is estimated to grow more modestly, but market participants should pay close attention to banks of emerging markets.
 
