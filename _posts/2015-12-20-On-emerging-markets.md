@@ -25,7 +25,7 @@ On the other hand, as JPMorgan notes, an increase in corporate debt is a source 
 
 However, as most of the buildup in corporate debt is domestic debt in the form of private sector loans, sovereign indebtedness is estimated to grow more modestly, but market participants should pay close attention to banks of emerging markets.
 
-Summing up, it's only logical to expect little or no additional inflows into emerging markets bond funds over 2016additional .
+Summing up, it's only logical to expect little or no additional inflows into emerging markets bond funds over year 2016.
 
 
 
